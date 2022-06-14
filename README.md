@@ -2,7 +2,7 @@
 
 <p>Here, I built a full stack Todo app using React JS, Express JS, NodeJS and Mongo DB</p>
 
-![to-do]()
+![to-do](https://i.postimg.cc/D06BrWJz/to-do.png)
 
 <p>Follow commands in this repository's for formatting this project.</p>
 
@@ -28,6 +28,10 @@
     npm i nodemon
 ```
 
+```sh
+    npm start
+```
+
 <p><b>Create a react app and install dependencies for the client:</b></p>
 
 ```sh
@@ -39,5 +43,5 @@
 ```
 
 ```sh
-    npm i
+    npm start
 ```
